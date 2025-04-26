@@ -1,0 +1,16 @@
+OrderID,Customer,Product,Category,Quantity,Price,OrderDate
+1001,Alice,Laptop,Electronics,1,1500,2023-06-01
+1002,Bob,Chair,Furniture,2,180,2023-06-03
+1003,Alice,Mouse,Electronics,3,25,2023-06-05
+1004,Charlie,Desk,Furniture,1,250,2023-06-06
+1005,Eve,Phone,Electronics,2,800,2023-06-07
+1006,Dave,Monitor,Electronics,1,300,2023-06-08
+1007,Alice,Chair,Furniture,4,180,2023-06-09
+1008,Bob,Tablet,Electronics,1,400,2023-06-10
+1009,Charlie,Couch,Furniture,1,1200,2023-06-11
+1010,Eve,Keyboard,Electronics,2,100,2023-06-12
+1011,Dave,Desk,Furniture,1,250,2023-06-13
+1012,Bob,Phone,Electronics,1,800,2023-06-14
+1013,Eve,Mouse,Electronics,5,25,2023-06-15
+1014,Alice,Sofa,Furniture,1,1100,2023-06-16
+1015,Charlie,Laptop,Electronics,1,1500,2023-06-17
